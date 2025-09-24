@@ -81,7 +81,24 @@ A clean, unified report using `UNION ALL` to present all key performance indicat
 - **Bottom 3** customers by order frequency
 
 ---
-## 📂 Folder Structure
+## 📁 Repository Structure
+
+```
+sql-exploratory-data-analysis-EDA-/
+│
+├── datasets/                           # datasets used for the project
+│
+├── scripts/                            # SQL scripts 
+│   ├── database_exploration.sql                         
+│   ├── dimension_analysis.sql                        
+│   ├── date_analysis.sql
+│   ├── measures_kpis.sql
+│   ├── magnitude_analysis.sql
+│   ├── ranking_analysis.sql
+│             
+├── README.md                           # Project overview and instructions
+
+```
 
 
 
