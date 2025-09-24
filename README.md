@@ -94,3 +94,11 @@ A clean, unified report using `UNION ALL` to present all key performance indicat
 - 🧪 ETL pipeline validation  
 - 🕵️‍♂️ Data quality and anomaly detection  
 - 📊 Business performance benchmarking
+
+## ☕ Stay Connected
+
+Let’s connect! 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robel-ermiyas)
+
+
